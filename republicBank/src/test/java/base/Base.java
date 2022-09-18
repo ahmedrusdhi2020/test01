@@ -11,6 +11,8 @@ import org.openqa.selenium.WebDriver;
 
 public class Base {
 	
+	String a = "abc";
+	
 	public static WebDriver browser;
 	public static Connection con;
 	public static Statement st;
